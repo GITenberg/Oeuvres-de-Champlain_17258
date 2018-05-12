@@ -1,0 +1,39 @@
+_repo: Oeuvres-de-Champlain_17258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Champlain, Samuel de
+    birthdate: 1574
+    deathdate: 1635
+    gutenberg_agent_id: '2130'
+    url: http://www.gutenberg.org/2009/agents/2130
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_de_Champlain
+  editor:
+    agent_name: Laverdière, C.-H. (Charles-Honoré)
+    aliases:
+    - Laverdiere, C.-H. (Charles-Honore)
+    - Laverdière,Charles-Honoré
+    birthdate: 1826
+    deathdate: 1873
+    gutenberg_agent_id: '7253'
+    url: http://www.gutenberg.org/2009/agents/7253
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2005-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17258'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'New France -- Discovery and exploration'
+- !lcsh 'Indians of North America -- Canada'
+- !lcsh 'America -- Discovery and exploration -- French'
+title: Oeuvres de Champlain
+url: http://www.gutenberg.org/ebooks/17258
